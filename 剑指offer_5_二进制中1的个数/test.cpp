@@ -17,7 +17,7 @@ public:
 
 int main(){
 	Solution s;
-	cout << s.NumberOf1(2) << endl;
+	cout << s.NumberOf1(3) << endl;
 
 	system("pause");
 	return 0;
